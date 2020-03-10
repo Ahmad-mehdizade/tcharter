@@ -1,5 +1,5 @@
 /*	
-	- Template Name: Jekas - Software,Studio And Corporate Template 
+	- Template Name: tcharter - Software,Studio And Corporate Template
 	- Autor: Iwthemes
 	- Email: support@iwthemes.com
 	- Name File: main.js

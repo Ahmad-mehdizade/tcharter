@@ -1,6 +1,6 @@
 <?php
 	$to = "jdrendon@imaginacionweb.net"; /*Your Email*/
-	$subject = "Messsage from Jekas Template"; /*Issue*/
+	$subject = "Messsage from tcharter Template"; /*Issue*/
 	$date = date ("l, F jS, Y"); 
 	$time = date ("h:i A"); 	
 	$Email=$_REQUEST['Email'];
