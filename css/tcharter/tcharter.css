@@ -1,0 +1,14 @@
+.change-language{
+    background: #ffffff1f;
+    border-radius: 43px;
+    padding: 5px 15px;
+    top: -5px;
+}
+.change-language:hover{
+    color: #fff;
+    background: #ffffff2e;
+    cursor: pointer;
+}
+.sf-menu > li{
+    margin:0 30px 0 0 !important;
+}
